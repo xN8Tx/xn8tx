@@ -6,7 +6,7 @@
 
   **Age:** 18 years
 
-  **University:** Novosibirsk State Technical University,
+  **University:** Novosibirsk State Technical University
 
   **Specialty:** Software Engineering
 </div>
