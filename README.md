@@ -1,5 +1,16 @@
-### Hi there 👋
+## <div>Hi there👋</div>
+## <div>About me</div>
+<div>
+  
+  **Name:** Evgeniy
 
+  **Age:** 18 years
+
+  **University:** Novosibirsk State Technical University,
+
+  **Specialty:** Software Engineering
+</div>
+###
 <!--
 **xN8Tx/xn8tx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
