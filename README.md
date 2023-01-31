@@ -12,14 +12,14 @@
 </div>
 
 ## <div>Languages and tools<div/>
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="HTML5" alt="HTML5" width="80" height="80"/>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="80" height="80"/>
-    <div></div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JAVASCRIPT" alt="JAVASCRIPT" width="80"   height="80"/>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="80"   height="80"/>   
+    <div style="margin: 20px 0;"></div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JAVASCRIPT" alt="JAVASCRIPT" width="80"   height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="typescritpt" alt="typescritpt" width="80"   height="80"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="80"   height="80"/>   
 </div>
 <!--
 **xN8Tx/xn8tx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
