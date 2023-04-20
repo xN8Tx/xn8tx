@@ -23,6 +23,7 @@
   <div></div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"  title="gulp" alt="gulp" width="80"   height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="figma" width="80"   height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="figma" alt="figma" width="80"   height="80"/>
 </div>
   
 ## <div>Contact me<div/>
