@@ -4,11 +4,9 @@
   
   **Name:** Evgeniy
 
-  **Age:** 18 years
+  **Age:** 19 years
 
   **University:** Novosibirsk State Technical University
-
-  **Specialty:** Software Engineering
 </div>
 
 ## <div>Languages and tools<div/>
