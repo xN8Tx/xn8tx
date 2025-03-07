@@ -1,7 +1,7 @@
 # <div>Hi there👋</div>
 ## <div>💁‍♂️ About me</div>
 <div>
-  I am a 20-year-old frontend developer from Novosibirsk, Russia, with over two years of experience. I specialize in website development using TypeScript, ReactJS, and NextJS. I am focused on self-development and working on my own projects. 
+  I am a 21-year-old frontend developer from Novosibirsk, Russia, with over two years of experience. I specialize in website development using TypeScript, ReactJS, and NextJS. I am focused on self-development and working on my own projects. 
 </div>
 
 ## <div>🚀 Skills<div/>
